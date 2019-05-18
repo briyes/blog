@@ -1,0 +1,15 @@
+---
+title: Useful Website
+author: 'Bingwei Tian'
+date: '2019-05-18'
+slug: useful-website
+categories: []
+tags: [web]
+---
+1. [The 5th China College Students' "Internet+" Innovation and Entrepreneurship Competition：](https://cy.ncss.cn/en/) 
+
+2. [BRIYES Blog:](briyes.netlify.com)
+
+3. [SCU Internation Office:](http://international.scu.edu.cn/)
+
+4. [Belt and Road Portal](https://eng.yidaiyilu.gov.cn/)

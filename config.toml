@@ -39,7 +39,12 @@ theme = "hugo-bootstrap"
  [[languages.en.menu.main]]
     url = "http://www.scu.edu.cn"
     name = "SCU"
+    weight = 5
+[[languages.en.menu.main]]
+    url = "https://cy.ncss.cn/"
+    name = "Internet+"
     weight = 4
+    
 [languages.cn]
   languageName = "中文简体"
 
