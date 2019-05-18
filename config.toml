@@ -1,5 +1,5 @@
 baseurl = "https://briyes.netlify.com/"
-title = "BRIYES demo"
+title = "BRIYES blog"
 languageCode = "en-us"
 defaultContentLanguage = "en"
 
@@ -35,7 +35,27 @@ theme = "hugo-bootstrap"
     url = "/contact/"
     name = "Contact"
     weight = 3
+    
+ [[languages.en.menu.main]]
+    url = "http://www.scu.edu.cn"
+    name = "SCU"
+    weight = 4
+[languages.cn]
+  languageName = "中文简体"
 
+  [[languages.es.menu.main]]
+    url = "/cn/"
+    name = "主页"
+    weight = 1
+  [[languages.es.menu.main]]
+    url = "/about/"
+    name = "关于我们"
+    weight = 2
+  [[languages.es.menu.main]]
+    url = "/contact/"
+    name = "联系我们"
+    weight = 3
+    
 [languages.es]
   languageName = "Español"
 
@@ -78,7 +98,7 @@ theme = "hugo-bootstrap"
   mainSections = ["post"]
 
   # Default author
-  author = "John Doe"
+  author = "Bingwei Tian"
 
   # Date format (default: Jan 2, 2006)
   # date_format = "Jan 2, 2006"
